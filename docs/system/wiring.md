@@ -6,9 +6,7 @@
 ![front_of_drone](../images/drone_front.png)
 
 ##### from back
-<div style="text-align: center;">
-  <img src="{{ 'images/drone_back.jpeg' | url }}" width="65%">
-</div>
+![back_of_drone](../images/drone_back.jpeg){ .img-65 }
 
 ### Drone Wiring Diagram
 
