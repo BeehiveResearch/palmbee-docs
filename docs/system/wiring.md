@@ -1,12 +1,8 @@
 ## Drone System Wiring
 
-### Drone Picture
+### Drone Setup
 
-##### from front
-![front_of_drone](../images/drone_front.png)
-
-##### from back
-![back_of_drone](../images/drone_back.jpeg){ .img-65 }
+![front_of_drone](../images/component_location.png)
 
 ### Drone Wiring Diagram
 
