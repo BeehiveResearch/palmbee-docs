@@ -9,7 +9,7 @@
 
 ##### from back
 <div style="text-align: center;">
-  <img src="../images/drone_back.jpeg" width="65%">
+  <img src="/images/drone_back.jpeg" width="65%">
 </div>
 
 ### Drone Wiring Diagram
