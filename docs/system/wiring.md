@@ -1,5 +1,3 @@
----
-
 ## Drone System Wiring
 
 ### Drone Picture
