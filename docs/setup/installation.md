@@ -33,7 +33,7 @@ cd palmbee_project
 #### 4. Clone the repository:
 
 ```bash
-git clone https://github.com/BeehiveCNG/PalmBee
+git clone https://github.com/BeehiveResearch/PalmBee
 ```
 
 ---
